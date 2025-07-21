@@ -1,6 +1,6 @@
 # **Currency Converter**
 
-![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
+![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) 
 
 A beginner-friendly **Exchange Rate Calculator** built with **HTML, CSS, and JavaScript**.  
 It fetches real-time exchange rates from a public API and allows quick currency conversions between multiple currencies.
@@ -13,13 +13,6 @@ It fetches real-time exchange rates from a public API and allows quick currency 
 - Enter an amount and instantly view the converted value.
 - Swap currencies with a single click.
 - Clean, responsive, and minimal design.
-
----
-
-## **Preview**
-
-![App Screenshot](https://i.ibb.co/rvJd2XR/rate.png)  
-_(Sample UI – converts between USD and EUR by default)_
 
 ---
 
