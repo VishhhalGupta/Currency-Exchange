@@ -21,7 +21,7 @@ It fetches real-time exchange rates from a public API and allows quick currency 
 Clone the repository and run it locally:
 
 ```bash
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/VishhhalGupta/Currency-Exchange
 cd currency-converter
 ```
 
